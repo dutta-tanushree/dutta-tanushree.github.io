@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Tanushree Dutta # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Assistant Manager (Corporate Planning and Management Services) at Airport Authority Of India.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="linkedin.com/in/tanushree-dutta-632b55a9">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
