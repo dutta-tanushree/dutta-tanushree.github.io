@@ -3,8 +3,6 @@
 ---
 
 ### Courses and Certificates
-
-  <br><br>
   <a href="https://dutta-tanushree.github.io/pages/courses.md"><big><u><b>Coursera</b></u></big></a>
 
 
