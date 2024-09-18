@@ -2,21 +2,6 @@
 ## 2024
 
 ### [Google Data Analytics Professional Certificate]
-
-
-
-<table>
-<colgroup>
-<col width="100%" />
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr>
 <td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/google-data/Coursera%20KH0FP1NO1U77-1.png?raw=true" width="182" height="102"></td>
-<td markdown="span"> 
-  8 courses.
-</td>
 
-</tr>
-</tbody>
-</table>
+
