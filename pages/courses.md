@@ -1,4 +1,4 @@
-##  Publications and Preprints
+##  Courses and Certificates
 ### 2024
 
 #### [Google Data Analytics Professional Certificate]
