@@ -14,7 +14,7 @@
 - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/V45NDW2ALS2P)
 
 ### Google Data Analytics Professional Certificate
-<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/IBM-Data-Science-Professional/IBM_Final_Certificate.png?raw=true"></td>
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/IBM-Data-Science-Professional/IBM_Certificate.jpeg?raw=true"></td>
 
 - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/EK3Y6PY538XS)
 - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/6UKTMYVKU4CU)
