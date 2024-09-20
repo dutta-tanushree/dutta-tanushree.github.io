@@ -13,4 +13,20 @@
 - [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/HFJARJ3ZEXR7)
 - [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/V45NDW2ALS2P)
 
+### Google Data Analytics Professional Certificate
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/IBM-Data-Science-Professional/IBM_Final_Certificate.png?raw=true"></td>
+
+- [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/EK3Y6PY538XS)
+- [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/6UKTMYVKU4CU)
+- [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/WP5R02QG2144)
+- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/0P3JJETAR0M7)
+- [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/CVFQZR3C1N3U)
+- [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/CM3TJ0AEGR8S)
+- [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/HGV05VFKCWZM)
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/WAHSRFZH6OAB)
+- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/DR7FZZBC8F77)
+- [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/6Z7CV15IQ3VD)
+- [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/40QPT93DHTKC)
+- [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/certificate/FBNFSVXRNSY4)
+
 
