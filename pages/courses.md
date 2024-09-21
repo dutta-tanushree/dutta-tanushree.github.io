@@ -29,4 +29,11 @@
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/40QPT93DHTKC)
 - [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/certificate/FBNFSVXRNSY4)
 
+### Machine Learning Specialization
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/ML/ML_stanford.jpeg?raw=true"></td>
+
+- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/FLHSB46LEP8U)
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/certificate/GD304C4IBI4T)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/UVK5HF9MVXTA)
+
 
