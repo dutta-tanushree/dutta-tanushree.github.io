@@ -29,6 +29,15 @@
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/40QPT93DHTKC)
 - [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/certificate/FBNFSVXRNSY4)
 
+### Data Science Fundamentals with Python and SQL Specialization
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/ML/ML_stanford.jpeg?raw=true"></td>
+
+- [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/6UKTMYVKU4CU)
+- [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/WP5R02QG2144)
+- [Statistics for Data Science with Python]()
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/WAHSRFZH6OAB)
+- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/DR7FZZBC8F77)
+
 ### Machine Learning Specialization
 <td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/ML/ML_stanford.jpeg?raw=true"></td>
 
