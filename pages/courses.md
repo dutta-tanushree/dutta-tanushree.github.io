@@ -56,3 +56,13 @@
 - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/UVK5HF9MVXTA)
 
 
+### Deep Learning Specialization
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/ML/ML_stanford.jpeg?raw=true"></td>
+
+- [Neural Networks and Deep Learning]()
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
+- [Structuring Machine Learning Projects]()
+- [Convolutional Neural Networks]()\
+- [Sequence Models]()
+
+
