@@ -38,6 +38,16 @@
 - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/WAHSRFZH6OAB)
 - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/DR7FZZBC8F77)
 
+### Applied Data Science with Python Specialization
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/IBM-Data-Science-Fundamentals-with-Python-and-SQL/data_python_ibm.jpeg?raw=true"></td>
+
+- [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/V6GHGKRV8310)
+- [Applied Plotting, Charting & Data Representation in Python]()
+- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/S3MD8KFDOELI)
+- [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/I9CIWAXC37F6)
+- [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/certificate/D0EH2NSR4SPI)
+
+
 ### Machine Learning Specialization
 <td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/ML/ML_stanford.jpeg?raw=true"></td>
 
