@@ -8,8 +8,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   Airport Authority Of India
   <br><br>
   <a href="https://www.linkedin.com/in/tanushree-dutta-632b55a9/">LinkedIn</a>
+  <br>
   <a href="https://github.com/dutta-tanushree">Github</a>
+  <br>
   <a href="https://dutta-tanushree.github.io/pages/courses/">Courses</a>
+  <br>
+  <a href="https://dutta-tanushree.github.io/pages/courses/">Courses</a>
+  <br>
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
