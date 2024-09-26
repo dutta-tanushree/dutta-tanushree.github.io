@@ -11,6 +11,7 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 - <b>University of Michigan</b> - Applied Data Science with Python Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Applied-Data-Science-with-Python-Specialization">Projects</a>)
 - <b>Standford University</b> - Machine Learning Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Machine-Learning-Specialization">Projects</a>)
 - <b>DeepLearning.AI</b> - Deep Learning Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Deep-Learning-Specialization">Projects</a>)
+- <b>Johns Hopkins University</b> - The Data Scientist’s Toolbox (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>
 
 
 ### Workplace Certifications
