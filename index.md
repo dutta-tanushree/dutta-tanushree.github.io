@@ -14,7 +14,7 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 
 
 ### Professional Certifications
-<a href="https://dutta-tanushree.github.io/pages/courses"><big><u><b>Coursera</b></u></big></a>
+- <a href="https://drive.google.com/file/d/1zxTJqpxQg5-Yn3sDg0UQvS7gYPeFOD1K/view?usp=sharing">Certificates</a>, <a href="https://github.com/dutta-tanushree/Deep-Learning-Specialization">Code of Conduct for Government Employees</a>
 
 
 <!-- Remove above link if you don't want to attibute -->
