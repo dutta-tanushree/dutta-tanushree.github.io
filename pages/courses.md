@@ -57,12 +57,12 @@
 
 
 ### Deep Learning Specialization
-<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/ML/ML_stanford.jpeg?raw=true"></td>
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/DL/DL_certi.jpeg?raw=true"></td>
 
-- [Neural Networks and Deep Learning]()
-- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
-- [Structuring Machine Learning Projects]()
-- [Convolutional Neural Networks]()\
-- [Sequence Models]()
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/BBZJAT9N00LQ)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/RH9I3SAK1CCD)
+- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/RSHD9XPEH9A9)
+- [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/HVR6S42AGC1Z)
+- [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/5B4R1F9AO9UH)
 
 
