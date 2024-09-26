@@ -13,7 +13,7 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 - Deep Learning Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Deep-Learning-Specialization">Projects</a>)
 
 
-### Professional Certifications
+### Workplace Certifications
 - <a href="https://drive.google.com/file/d/1zxTJqpxQg5-Yn3sDg0UQvS7gYPeFOD1K/view?usp=sharing">Code of Conduct for Government Employees</a>
 - <a href="https://drive.google.com/file/d/1Fgo_f8pzrdIuxMZy5easfhigSSUsX696/view?usp=sharing">Introduction to Emerging Technologies</a>
 - <a href="https://drive.google.com/file/d/1aAGHRdbmoPOQ2faOiAOoUz5lElA9B2DM/view?usp=sharing">Orientation Module on Mission LiFE</a>
