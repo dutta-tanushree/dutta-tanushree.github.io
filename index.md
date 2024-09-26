@@ -4,7 +4,12 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 
 ---
 
-### Courses and Certificates
+### Online Courses
+- Google Data Analytics Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>)
+
+
+
+### Professional Certifications
 <a href="https://dutta-tanushree.github.io/pages/courses"><big><u><b>Coursera</b></u></big></a>
 
 
