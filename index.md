@@ -14,7 +14,12 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 
 
 ### Professional Certifications
-- <a href="https://drive.google.com/file/d/1zxTJqpxQg5-Yn3sDg0UQvS7gYPeFOD1K/view?usp=sharing">Certificates</a>, <a href="https://github.com/dutta-tanushree/Deep-Learning-Specialization">Code of Conduct for Government Employees</a>
+- <a href="https://drive.google.com/file/d/1zxTJqpxQg5-Yn3sDg0UQvS7gYPeFOD1K/view?usp=sharing">Code of Conduct for Government Employees</a>
+- <a href="https://drive.google.com/file/d/1Fgo_f8pzrdIuxMZy5easfhigSSUsX696/view?usp=sharing">Introduction to Emerging Technologies</a>
+- <a href="https://drive.google.com/file/d/1aAGHRdbmoPOQ2faOiAOoUz5lElA9B2DM/view?usp=sharing">Orientation Module on Mission LiFE</a>
+- <a href="https://drive.google.com/file/d/1ply4qDQ8abmpir9e8MNQutLZi9Zmi657/view?usp=sharing">Prevention of Sexual Harassment of Women at Workplace</a>
+- <a href="https://drive.google.com/file/d/1QB-0ykYqHEGkcRmXvtupS31UkoETpvae/view?usp=sharing">Stay Safe in Cyber Space</a>
+- <a href="https://drive.google.com/file/d/1iDdcBVRfveIbNFEN5x6CYPkvO8QRDANL/view?usp=sharing">Yoga Break at Workplace</a>
 
 
 <!-- Remove above link if you don't want to attibute -->
