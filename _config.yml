@@ -1,13 +1,15 @@
 title: Tanushree Dutta # your name (or website title) here
 logo: "/images/LI_dp.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b>{Assistant Manager}</b>.
+  <b>Assistant Manager</b>.
   <br>
   (Corporate Planning and Management)
   <br>
   Airport Authority Of India
   <br><br>
-  <a href="https://www.linkedin.com/in/tanushree-dutta-632b55a9/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/tanushree-dutta-632b55a9/">LinkedIn</a>
+  <a href="https://github.com/dutta-tanushree">Github</a>
+  <a href="https://dutta-tanushree.github.io/pages/courses/">Courses</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
