@@ -8,7 +8,7 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 - Google Data Analytics Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>)
 - IBM Data Science Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/IBM-Data-Science-Professional-Certificate">Projects</a>)
 - Data Science Fundamentals with Python and SQL Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/IBM-Data-Science-Professional-Certificate">Projects</a>)
-- Applied Data Science with Python Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Applied-Data-Science-with-Python-Specialization">Projects</a>)
+- <b>University of Michigan<b> - Applied Data Science with Python Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Applied-Data-Science-with-Python-Specialization">Projects</a>)
 - Machine Learning Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Machine-Learning-Specialization">Projects</a>)
 - Deep Learning Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Deep-Learning-Specialization">Projects</a>)
 
