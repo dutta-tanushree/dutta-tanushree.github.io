@@ -39,10 +39,10 @@
 - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/DR7FZZBC8F77)
 
 ### Applied Data Science with Python Specialization
-<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/IBM-Data-Science-Fundamentals-with-Python-and-SQL/data_python_ibm.jpeg?raw=true"></td>
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/UM-python/UM-certi.jpeg?raw=true"></td>
 
 - [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/V6GHGKRV8310)
-- [Applied Plotting, Charting & Data Representation in Python]()
+- [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/41ET9LZK6YIT)
 - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/S3MD8KFDOELI)
 - [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/I9CIWAXC37F6)
 - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/certificate/D0EH2NSR4SPI)
