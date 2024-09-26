@@ -65,4 +65,7 @@
 - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/HVR6S42AGC1Z)
 - [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/5B4R1F9AO9UH)
 
+### Data Science Specialization
+- [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/certificate/GKUQCORA6OH2)
+
 
