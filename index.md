@@ -15,6 +15,8 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 
 ### Data & Technology Articles
 - <a href="https://medium.com/@14duttatanushreeya/predicting-stock-prices-with-machine-learning-cde2c13198fd">Predicting Stock Prices with Machine Learning</a>
+- <a href="https://medium.com/@14duttatanushreeya/forecasting-unemployment-rates-using-machine-learning-a-beginners-guide-43af21d1c350">Forecasting Unemployment Rates Using Machine Learning: A Beginner’s Guide</a>
+
 
 ### Workplace Certifications
 - <a href="https://drive.google.com/file/d/1zxTJqpxQg5-Yn3sDg0UQvS7gYPeFOD1K/view?usp=sharing">Code of Conduct for Government Employees</a>
