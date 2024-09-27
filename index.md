@@ -13,7 +13,7 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 - <b>DeepLearning.AI</b> - Deep Learning Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/Deep-Learning-Specialization">Projects</a>)
 - <b>Johns Hopkins University</b> - The Data Scientist’s Toolbox (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>)
 
-### Blogs
+### Data & Technology Articles
 - <a href="https://medium.com/@14duttatanushreeya/predicting-stock-prices-with-machine-learning-cde2c13198fd">Predicting Stock Prices with Machine Learning</a>
 
 ### Workplace Certifications
