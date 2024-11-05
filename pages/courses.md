@@ -1,18 +1,6 @@
 #  Courses and Certificates
 ## 2024
 
-### Google Data Analytics Professional Certificate
-<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/google-data/google_certi.jpeg?raw=true"></td>
-
-- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/H5AMSRUN8ESM)
-- [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/REY8ZBCQ71YK)
-- [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/JWZCCIRAPEDJ)
-- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/SJFAKH66J5N2)
-- [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/6Y4GQ7K3NQGN)
-- [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/Y5RMAT4OUG0R)
-- [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/HFJARJ3ZEXR7)
-- [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/V45NDW2ALS2P)
-
 ### IBM Data Science Professional Certificate
 <td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/IBM-Data-Science-Professional/IBM_Certificate.jpeg?raw=true"></td>
 
@@ -38,7 +26,19 @@
 - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/WAHSRFZH6OAB)
 - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/DR7FZZBC8F77)
 
-### Applied Data Science with Python Specialization
+### Google Data Analytics Professional Certificate
+<td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/google-data/google_certi.jpeg?raw=true"></td>
+
+- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/H5AMSRUN8ESM)
+- [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/REY8ZBCQ71YK)
+- [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/JWZCCIRAPEDJ)
+- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/SJFAKH66J5N2)
+- [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/6Y4GQ7K3NQGN)
+- [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/Y5RMAT4OUG0R)
+- [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/HFJARJ3ZEXR7)
+- [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/V45NDW2ALS2P)
+
+<!-- ### Applied Data Science with Python Specialization
 <td markdown="span"><img src="https://github.com/dutta-tanushree/dutta-tanushree.github.io/blob/master/pdf/certificates/UM-python/UM-certi.jpeg?raw=true"></td>
 
 - [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/V6GHGKRV8310)
@@ -68,4 +68,4 @@
 ### Data Science Specialization
 - [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/certificate/GKUQCORA6OH2)
 
-
+-->
