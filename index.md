@@ -19,8 +19,11 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 - <a href="https://medium.com/@14duttatanushreeya/sentiment-analysis-of-customer-reviews-a-guide-for-beginners-4a5f2194a121">Sentiment Analysis of Customer Reviews: A Guide for Beginners</a>
 
 ### Workplace Certifications
-- <a href="https://dutta-tanushree.github.io/pdf/certificates/work/Basics of Communication.pdf">Basics of Communication from Indian Institute of Mass Communication</a>
 - <a href="https://dutta-tanushree.github.io/pdf/Letter_of_Appreciation.pdf">Letter of Appreciation from Airports Authority of India</a>
+- <a href="https://dutta-tanushree.github.io/pdf/certificates/work/Basics of Communication.pdf">Basics of Communication</a>
+- <a href="https://dutta-tanushree.github.io/pdf/certificates/work/How to Live Healthy.pdf">How to Live Healthy</a>
+- <a href="https://dutta-tanushree.github.io/pdf/certificates/work/Personal and Organisational Value.pdf">Personal and Organisational Value</a>
+- <a href="https://dutta-tanushree.github.io/pdf/certificates/work/Understanding Mission Karmayogi.pdf">Understanding Mission Karmayogi</a>
 - <a href="https://drive.google.com/file/d/1zxTJqpxQg5-Yn3sDg0UQvS7gYPeFOD1K/view?usp=sharing">Code of Conduct for Government Employees</a>
 - <a href="https://drive.google.com/file/d/1Fgo_f8pzrdIuxMZy5easfhigSSUsX696/view?usp=sharing">Introduction to Emerging Technologies</a>
 - <a href="https://drive.google.com/file/d/1aAGHRdbmoPOQ2faOiAOoUz5lElA9B2DM/view?usp=sharing">Orientation Module on Mission LiFE</a>
