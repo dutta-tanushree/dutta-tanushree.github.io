@@ -5,7 +5,9 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 ---
 ### Internship
 - <a href="https://dutta-tanushree.github.io/pdf/IIFT Internship.pdf"> Internship Certificate from Indian Institute of Foreign Trade</a>
+
 ### Online Courses
+
 - <b>Google</b> - Data Analytics Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>)
 - <b>IBM</b> - Data Science Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/IBM-Data-Science-Professional-Certificate">Projects</a>)
 - <b>IBM</b> - Data Science Fundamentals with Python and SQL Specialization (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/IBM-Data-Science-Professional-Certificate">Projects</a>)
