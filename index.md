@@ -25,6 +25,7 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 ### Workplace Certifications
 - <a href="https://dutta-tanushree.github.io/pdf/Letter_of_Appreciation.pdf">Letter of Appreciation from GM (OPS) Airports Authority of India</a>
 - <a href="https://dutta-tanushree.github.io/pdf/Appreciation.pdf">Letter of Appreciation from GM (CPMS) Airports Authority of India</a>
+- <a href="https://dutta-tanushree.github.io/pdf/IATA.pdf">Overview of the Air Transportation System from IATA</a>  
 - <a href="https://dutta-tanushree.github.io/pdf/POWER BI.pdf">Power BI – Indian Aviation Academy</a>
 - <a href="https://dutta-tanushree.github.io/pdf/certificates/work/Basics of Communication.pdf">Basics of Communication</a>
 - <a href="https://dutta-tanushree.github.io/pdf/certificates/work/How to Live Healthy.pdf">How to Live Healthy</a>
