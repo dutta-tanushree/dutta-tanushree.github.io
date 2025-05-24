@@ -30,6 +30,16 @@ My current responsibilities at AAI involve forecasting passenger traffic, assess
 - <a href="https://drive.google.com/file/d/1ply4qDQ8abmpir9e8MNQutLZi9Zmi657/view?usp=sharing">Prevention of Sexual Harassment of Women at Workplace</a>
 - <a href="https://drive.google.com/file/d/1QB-0ykYqHEGkcRmXvtupS31UkoETpvae/view?usp=sharing">Stay Safe in Cyber Space</a>
 - <a href="https://drive.google.com/file/d/1iDdcBVRfveIbNFEN5x6CYPkvO8QRDANL/view?usp=sharing">Yoga Break at Workplace</a>
+## Certificates
+
+### Power BI – Indian Aviation Academy  
+[View Certificate (PDF)](/pdf/powerbi.pdf)
+
+
+
+### Appreciation from AAI  
+[View Certificate (PDF)](/Appreciation.pdf)
+
 
 
 <!-- Remove above link if you don't want to attibute -->
