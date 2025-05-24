@@ -3,7 +3,8 @@ I am an Assistant Manager at the <a href="https://www.aai.aero/"> Airports Autho
 My current responsibilities at AAI involve forecasting passenger traffic, assessing the capacity of terminal buildings in airports, and analyzing customer satisfaction surveys across 60+ airports. Additionally, I collaborate with third-party vendors to evaluate their performance. Committed to continuous learning, I have earned multiple certifications in Data Analytics and Machine Learning, aiming to expand my skill set and further enhance my contributions in the field.
 
 ---
-
+### Internship
+- <a href="https://dutta-tanushree.github.io/pdf/IIFT Internship.pdf"> Internship Certificate from Indian Institute of Foreign Trade</a>
 ### Online Courses
 - <b>Google</b> - Data Analytics Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>)
 - <b>IBM</b> - Data Science Professional Certificate (<a href="https://dutta-tanushree.github.io/pages/courses">Certificates</a>, <a href="https://github.com/dutta-tanushree/IBM-Data-Science-Professional-Certificate">Projects</a>)
